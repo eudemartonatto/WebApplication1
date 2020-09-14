@@ -71,7 +71,9 @@
     </form>
   <!-- Se for colocado no <head> não funciona... -->
   <script type="text/javascript" src="Formulario.js"></script>
-
+  <!-- código alterado para teste no github -->
+  <!-- código alterado para teste no github -->
+  <!-- código alterado para teste no github -->
   <script>
   </script>
   </body>
