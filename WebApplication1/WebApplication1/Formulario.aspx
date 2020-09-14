@@ -73,7 +73,6 @@
   <script type="text/javascript" src="Formulario.js"></script>
   <!-- código alterado para teste no github -->
   <!-- código alterado para teste no github -->
-  <!-- código alterado para teste no github -->
   <!-- mais uma alteração para teste no github -->
   <script>
   </script>
