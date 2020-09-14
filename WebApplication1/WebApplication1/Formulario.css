@@ -1,0 +1,11 @@
+﻿body {
+    background-color: blue;
+}
+
+.direita {
+    margin: 0px auto;
+    display: table;
+}
+.vermelho{
+    background-color: red;
+}
