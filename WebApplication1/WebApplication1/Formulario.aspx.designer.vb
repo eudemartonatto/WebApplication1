@@ -104,6 +104,15 @@ Partial Public Class Formulario
     Protected WithEvents ImageButton1 As Global.System.Web.UI.WebControls.ImageButton
 
     '''<summary>
+    '''Controle Calendar2.
+    '''</summary>
+    '''<remarks>
+    '''Campo gerado automaticamente.
+    '''Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+    '''</remarks>
+    Protected WithEvents Calendar2 As Global.System.Web.UI.WebControls.Calendar
+
+    '''<summary>
     '''Controle BulletedList1.
     '''</summary>
     '''<remarks>

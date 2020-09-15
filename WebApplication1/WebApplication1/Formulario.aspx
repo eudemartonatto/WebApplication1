@@ -40,6 +40,7 @@
           <br />
           <br />
           <br />
+          <asp:Calendar ID="Calendar2" runat="server"></asp:Calendar>
 
           <asp:BulletedList ID="BulletedList1" runat="server"></asp:BulletedList>         
           <br />

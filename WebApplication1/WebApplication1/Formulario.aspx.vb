@@ -68,6 +68,8 @@
         ResultLabel1.Text = FileUpload1.FileName
     End Sub
 
+    Protected Sub Calendar2_SelectionChanged(sender As Object, e As EventArgs)
 
+    End Sub
 End Class
 
