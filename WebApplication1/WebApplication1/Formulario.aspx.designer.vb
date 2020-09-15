@@ -68,6 +68,15 @@ Partial Public Class Formulario
     Protected WithEvents TextBox1 As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
+    '''Controle ResultLabel.
+    '''</summary>
+    '''<remarks>
+    '''Campo gerado automaticamente.
+    '''Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+    '''</remarks>
+    Protected WithEvents ResultLabel As Global.System.Web.UI.WebControls.Label
+
+    '''<summary>
     '''Controle Calendar1.
     '''</summary>
     '''<remarks>
@@ -104,15 +113,6 @@ Partial Public Class Formulario
     Protected WithEvents ImageButton1 As Global.System.Web.UI.WebControls.ImageButton
 
     '''<summary>
-    '''Controle Calendar2.
-    '''</summary>
-    '''<remarks>
-    '''Campo gerado automaticamente.
-    '''Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
-    '''</remarks>
-    Protected WithEvents Calendar2 As Global.System.Web.UI.WebControls.Calendar
-
-    '''<summary>
     '''Controle BulletedList1.
     '''</summary>
     '''<remarks>
@@ -120,15 +120,6 @@ Partial Public Class Formulario
     '''Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
     '''</remarks>
     Protected WithEvents BulletedList1 As Global.System.Web.UI.WebControls.BulletedList
-
-    '''<summary>
-    '''Controle ResultLabel.
-    '''</summary>
-    '''<remarks>
-    '''Campo gerado automaticamente.
-    '''Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
-    '''</remarks>
-    Protected WithEvents ResultLabel As Global.System.Web.UI.WebControls.Label
 
     '''<summary>
     '''Controle ResultLabel0.

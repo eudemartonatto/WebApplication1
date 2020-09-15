@@ -28,28 +28,27 @@
           <br />
           <asp:TextBox ID="TextBox1" CssClass="vermelho" runat="server" onKeyPress="pressionou()"></asp:TextBox>
           <br />
+          <asp:Label ID="ResultLabel" runat="server" CssClass="centro" Text="Label"></asp:Label>
+          <br />
           <asp:Calendar ID="Calendar1" runat="server" Caption="Caption"></asp:Calendar>
           <br />
           <asp:FileUpload ID="FileUpload1" runat="server" Width="350px" />
           <br />
           <a href="http://www.google.com">
-            <asp:Image ID="Image1" src="image/farol.jpg" Width="100px" Height="100px" runat="server" />
+            <asp:Image ID="Image1" src="image/farol.jpg" Width="100px" runat="server" />
           </a>
           <br />
-          <asp:ImageButton ID="ImageButton1" runat="server" />
+          <asp:ImageButton ID="ImageButton1" runat="server" ImageUrl="~/image/farol.jpg" Width="150px" />
           <br />
           <br />
           <br />
-          <asp:Calendar ID="Calendar2" runat="server"></asp:Calendar>
 
           <asp:BulletedList ID="BulletedList1" runat="server"></asp:BulletedList>         
           <br />
+          <br />          
+          <asp:Label ID="ResultLabel0" runat="server" CssClass="centro" Text="Label"></asp:Label>
           <br />
-          <asp:Label ID="ResultLabel" runat="server" CssClass="direita" Text="Label"></asp:Label>
-          <br />
-          <asp:Label ID="ResultLabel0" runat="server" CssClass="direita" Text="Label"></asp:Label>
-          <br />
-          <asp:Label ID="ResultLabel1" runat="server" CssClass="direita" Text="Label"></asp:Label>
+          <asp:Label ID="ResultLabel1" runat="server" CssClass="centro" Text="Label"></asp:Label>
           <br />
           <br />
           <br />

@@ -91,6 +91,15 @@ Campo gerado automaticamente.
 Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
 </remarks>
 </member>
+<member name="F:WebApplication1.Formulario._ResultLabel">
+<summary>
+Controle ResultLabel.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member>
 <member name="F:WebApplication1.Formulario._Calendar1">
 <summary>
 Controle Calendar1.
@@ -130,15 +139,6 @@ Modificar a declaração do campo de movimento do arquivo de designer para o arq
 <member name="F:WebApplication1.Formulario._BulletedList1">
 <summary>
 Controle BulletedList1.
-</summary>
-<remarks>
-Campo gerado automaticamente.
-Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
-</remarks>
-</member>
-<member name="F:WebApplication1.Formulario._ResultLabel">
-<summary>
-Controle ResultLabel.
 </summary>
 <remarks>
 Campo gerado automaticamente.
